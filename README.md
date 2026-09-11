@@ -19,6 +19,7 @@ I'm a passionate CS student diving deep into programming, problem-solving, and s
 ## 🛠️ Tech Stack & Learning Path
 
 **Currently Learning:**
+- C language
 - JavaScript / TypeScript
 - Python
 - Web Development (HTML, CSS, React)
