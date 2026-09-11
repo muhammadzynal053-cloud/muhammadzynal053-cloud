@@ -59,7 +59,7 @@ Check out my repositories to see what I'm working on! I'm building projects to s
 
 - 📧 **Email:** mohammadzynal2008@gmail.com
 - 📱 **Contact:** +92 337 3398760
-- 💼 **LinkedIn:** [Muhammad Zynal](https://www.linkedin.com/in/muhammad-zynal)
+- 💼 **LinkedIn:** [Muhammad Zynal](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BoPiDy%2BAZSQOrUi%2BI990ngw%3D%3D)
 - 🐦 **Twitter/X:** [Add your Twitter handle]
 
 Feel free to reach out if you want to:
