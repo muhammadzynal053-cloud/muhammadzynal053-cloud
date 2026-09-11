@@ -57,19 +57,6 @@ Hi! I'm **Muhammad Zynal Khuwaja**, a **1st-year Computer Science student** at *
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadzynal053-cloud&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=fff&icon_color=79ff97&text_color=9ca3af)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzynal053-cloud&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=fff&text_color=9ca3af)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadzynal053-cloud&theme=radical&hide_border=true&background=1a1b27)
-
-</div>
 
 ---
 
